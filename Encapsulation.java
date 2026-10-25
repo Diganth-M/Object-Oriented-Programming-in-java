@@ -4,7 +4,7 @@ class BankBalance{
     
     private int balance;
     
-    BAnaBalance ( int balance){
+    BanaBalance ( int balance){
         this.balance = balance;
     }
     
